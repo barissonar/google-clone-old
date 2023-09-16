@@ -1,0 +1,56 @@
+body {
+    padding: 0px;
+    margin: 0px;
+    width: auto;
+}
+#container {
+    margin-top: 70px;
+}
+#logo {
+    margin-left: 36%;
+}
+#content {
+    background-color: rgb(243, 243, 243);
+    padding-left: 480px;
+    height: 100px;
+}
+#search {
+    width: 350px;
+}
+#title {
+    padding-left: 75px;
+}
+.box1 {
+    background-color: rgb(112, 221, 185);
+    width: 200px;
+    height: 100px;
+    padding: 10px 100px;
+    float: left;
+}
+.box2 {
+    background-color: rgb(64, 189, 182);
+    float: left;
+    width: 150px;
+    height: 100px;
+    padding: 10px 75px;
+}
+.box3{
+    background-color: rgb(20, 172, 164);
+    float: left;
+    width: 380px;
+    padding-left: 270px;
+    height: 120px;
+    
+}
+.box1,.box2,.box3{
+    margin-left: 2px;
+    margin-top: 3px;
+}
+#copyrightt {
+    margin-left: 550px;
+    padding-top: 20px;
+    clear: both;
+}
+#buttons{
+    padding: 5px 60px;
+}
